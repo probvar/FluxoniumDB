@@ -12,7 +12,8 @@ The file `processing_EXAMPLE.ipynb` gives an example of importing the provided d
 
 ## Access to Notion database
 
-The database also lives in Notion, which has many nice visualization tools as well as images of all fluxonium devices reported. It can be useful to get a sense of what all  
+The database also lives in Notion, which has many nice visualization tools as well as images of all fluxonium devices reported. This has been quite useful. Please fill out the form below if you would like access:
+https://forms.gle/VWGYRccrNChqjuoi6
 
 ## Contributing
 
