@@ -2,7 +2,7 @@
 
 Collection of data on all measured fluxonium.
 
-![image](https://github.com/user-attachments/assets/e4823539-9470-4243-a3b1-bcdab402650f)
+![image](half_flux_records.png)
 
 This database has >190 qubits, >70 papers, with that number continually growing. In the immediate future, information about gates will be added.
 
@@ -12,7 +12,7 @@ The file `processing_EXAMPLE.ipynb` gives an example of importing the provided d
 
 ## Access to Notion database
 
-The database also lives in Notion, which has many nice visualization tools as well as images of all fluxonium devices reported. This has been quite useful. Please fill out the form below if you would like access:
+The database also lives in Notion, which has many nice visualization tools as well as images of all fluxonium devices reported. This has been quite useful for the database maintainers. Please fill out the form below if you would like access:
 https://forms.gle/VWGYRccrNChqjuoi6
 
 ## Contributing
