@@ -2,7 +2,7 @@
 
 Collection of data on all measured fluxonium.
 
-![image](half_flux_records.png)
+![image](records.png)
 
 This database has >190 qubits, >70 papers, with that number continually growing. In the immediate future, information about gates will be added.
 
