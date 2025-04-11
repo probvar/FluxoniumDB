@@ -6,14 +6,13 @@ Collection of data on all measured fluxonium.
 
 This database has >190 qubits, >70 papers, with that number continually growing. In the immediate future, information about gates will be added.
 
+## Notion Database/Webpage
+
+See this website here for the database in a convenient Notion page! https://fluxoniumdb.notion.site/
+
 ## Using the csv database
 
 The file `processing_EXAMPLE.ipynb` gives an example of importing the provided database `fluxonium.csv` file into a `pandas.DataFrame` python object and generating the plot above. 
-
-## Access to Notion database
-
-The database also lives in Notion, which has many nice visualization tools as well as images of all fluxonium devices reported. This has been quite useful for the database maintainers. Please fill out the form below if you would like access:
-https://forms.gle/VWGYRccrNChqjuoi6
 
 ## Contributing
 
